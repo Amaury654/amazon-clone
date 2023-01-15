@@ -9,7 +9,7 @@ function Header() {
        <div className='flex flex-grow items-center bg-amazon_blue p-1 py-2'>
        {/*top one*/}
             <div className='mt-2 flex items-center flex-grow sm:flex-grow-0'>
-                <Image src='https://pngimg.com/uploads/amazon/amazon_PNG11.png' 
+                <Image src='https://links.papareact.com/f90' 
                  width={150}
                  height={40}
                  objectFit='contain'
