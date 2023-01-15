@@ -31,7 +31,7 @@ function Header() {
         <div className=' text-white flex items-center  text-xs md:text-sm space-x-6 mx-6 whitespace-nowrap'>
                     
                 <div className='link'>
-                        <p>Hello Leudy Suero</p>
+                        <p>Hello Leudy</p>
                         <p className='font-extrabold'>Account & List</p>        
                 </div>
 
